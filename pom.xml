@@ -96,8 +96,8 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>cicd-project-1</name>
-	      <url>http://34.219.66.120:8083/repository/cicd-project/</url>
+	      <name>pipesnap</name>
+	      <url>http://54.218.73.2:8083/repository/pipesnap/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
